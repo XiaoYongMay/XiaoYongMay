@@ -15,11 +15,11 @@
       <kbd>Experience with:</kbd>
       <br />
       <br />
-      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="">
-      <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+      <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
       <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
       <img align="center" title="React" alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-   <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+   <img align="center" title="TypeScript" alt="TypeScript" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
       <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
    <br />
 <br /> 
