@@ -28,8 +28,8 @@
 <kbd>Learning/Interests:</kbd>
  <br />
  <br />
-      <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-      <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+      <img align="center" title="React" alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+      <img align="center" title="TypeScript" alt="TypeScript" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
       <img align="center" title="Vite" alt="Vite" height="30" width="40" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg">
  <br />
  <br />
